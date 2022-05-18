@@ -67,7 +67,7 @@ Clique para saber mais!
 <a href="https://github.com/Benhurds12">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/90663589?v=4" width="100px;" alt=""/>
  <br />
- <sub><b>Jose Benhurd</b></sub></a> <a href="https://github.com/Julio-CSilva" title="Foguete não tem ré">🚀</a>
+ <sub><b>Jose Ben Hur</b></sub></a> <a href="https://github.com/Julio-CSilva" title="Foguete não tem ré">🚀</a>
  
 Clique para saber mais!
 
